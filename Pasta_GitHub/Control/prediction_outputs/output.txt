@@ -1,0 +1,26 @@
+=== Train & Val Metrics ===
+Train → loss: 0.1804  acc: 0.9423  mIoU: 0.8978
+Val   → loss: 1.1564  acc: 0.6089  mIoU: 0.5100
+
+=== Test Set Metrics (sem classe 0) ===
+Test  → loss: 1.1413  acc: 0.4720  mIoU: 0.5910
+
+--- IoU por Classe (1..3) ---
+Classe 1: 0.5672
+Classe 2: 0.3320
+Classe 3: 0.5168
+
+--- IoU por Imagem (Test Set) ---
+000000100.png → IoUs: [0.1521, 0.6591, 0.1137, 0.5358], mIoU (presentes): 0.4362
+000000101.png → IoUs: [0.1030, 0.4416, 0.5291, 0.5087], mIoU (presentes): 0.4931
+000000102.png → IoUs: [0.1108, 0.4282, 0.1115, 0.4712], mIoU (presentes): 0.3370
+000000103.png → IoUs: [0.0692, 0.2993, 0.0326, 0.3918], mIoU (presentes): 0.2413
+000000104.png → IoUs: [0.0985, 0.3619, 0.3311, 0.5262], mIoU (presentes): 0.4064
+000000105.png → IoUs: [0.1084, 0.8116, 0.0970, 0.5480], mIoU (presentes): 0.4855
+000000106.png → IoUs: [0.1033, 0.8701, 0.6119, 0.5214], mIoU (presentes): 0.6678
+000000107.png → IoUs: [0.0624, 0.4999, 0.0020, 0.4167], mIoU (presentes): 0.3062
+000000108.png → IoUs: [0.0722, 0.4102, 0.1093, 0.5439], mIoU (presentes): 0.3545
+000000109.png → IoUs: [0.0471, 0.3340, 0.2954, 0.6637], mIoU (presentes): 0.4310
+000000110.png → IoUs: [0.0286, 0.7017, 0.1382, 0.4982], mIoU (presentes): 0.4460
+000000111.png → IoUs: [0.0624, 0.5422, 0.3111, 0.5001], mIoU (presentes): 0.4511
+000000112.png → IoUs: [0.0573, 0.7999, 0.0983, 0.5289], mIoU (presentes): 0.4757
