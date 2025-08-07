@@ -1,0 +1,1 @@
+Neste diretório segue todos os códigos e imagens utilizadas dentro do artigo "Eficácia de diferentes backbones para a rede DeepLabV3+ aplicada à segmentação semântica de plantações agrícolas com escassez de imagens"
